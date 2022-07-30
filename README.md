@@ -1,4 +1,4 @@
-Olá! Eu sou a Mariana Favaro 😊
+Olá! Eu sou a Mariana Favaro! 😊 
 
 <div align="center">
   <a href="https://github.com/marianafavaro">
