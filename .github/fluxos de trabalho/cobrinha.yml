@@ -1,0 +1,14 @@
+ name : Jobs para atualizar dados
+    run-on : ubuntu-latest
+    passos :
+      # cartões de resumo
+      - usa : actions/checkout@v2
+      - usa : vn7n24fzkq/github-profile-summary-cards@release
+        ambiente :
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+        com :
+          USERNAME : ${{ mariana.favaro.repository_owner }}
+
+      # Animação de cobra
+      - usa : Platane/snk@master
+        id : cobra-gif
