@@ -1,4 +1,4 @@
-Olá! Eu sou a Mariana Favaro! 😊 
+Olá! Seja bem vindo(a) ao meu Git! 😊 
 
 <div align="center">
   <a href="https://github.com/marianafavaro">
@@ -18,7 +18,7 @@ Olá! Eu sou a Mariana Favaro! 😊
 ##
 
 <div>
-  <a href="https://instagram.com/marifavaro_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/favaromari_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:mariana.favaro@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href="https://discord.com/channels/@me/1003027482095657002" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marianafavaro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteank"></a>
