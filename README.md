@@ -6,7 +6,7 @@
 
 • O que tenho feito:
 
-🗣️ Aprendendo e aprimorando meu conhecimento na língua inglesa, especialmente inglês americano. 
+🗣️ Aprendendo e aprimorando meu conhecimento na língua inglesa, especialmente inglês americano.  
 🖥️ Aprofundando conhecimento em desenvolvimento em Front-end e em linguagens como JavaScript, TypeScript e React.
 
 • Interesses profissionais:
